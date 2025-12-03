@@ -7,7 +7,7 @@ Tutorial to making a version of the wooden petrol go-kart I made in Year 12, com
 - A written guide
 
 ## Parts required
-### You might need some other parts based on what design you're going for
+##### You might need some other parts based on what design you're going for
 
 -	2x Rear , 2x Front wheels
 -	x3 - 2"x4" 3m C24 timber
